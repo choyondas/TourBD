@@ -278,15 +278,15 @@ header .search-bar-container label:hover{
   object-fit: cover;
 }
 
-.home .controls{
+/* .home .controls{
   padding:1rem;
   border-radius: 5rem;
   background:rgba(0,0,0,.7);
   position: relative;
   top:10rem;
-}
+} */
 
-.home .controls .vid-btn{
+/* .home .controls .vid-btn{
   height:2rem;
   width:2rem;
   display: inline-block;
@@ -294,11 +294,11 @@ header .search-bar-container label:hover{
   background:rgb(255, 255, 255);
   cursor: pointer;
   margin:0 .5rem;
-}
+} */
 
-.home .controls .vid-btn.active{
+/* .home .controls .vid-btn.active{
   background:var(--orange);
-}
+} */
 
 .book .row{
   display: flex;
